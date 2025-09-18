@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="300" style="border: 3px solid white; border-radius: 15px; vertical-align: middle; margin-right: 20px;">
+  <img src="https://github.com/OGSarah/HikingSurvey/blob/391b3708580d9208cdde509c6a679f86b983e076/AppIcon_screenshot.png" width="300" style="border: 3px solid white; border-radius: 15px; vertical-align: middle; margin-right: 20px;">
   <h1 style="display: inline-block; vertical-align: middle;">Hiking Survey</h1>
 </div>
 
